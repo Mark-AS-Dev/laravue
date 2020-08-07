@@ -1,7 +1,7 @@
 
 ## Laravel Vue CRUD with Login
 
- Laravel Vue CRID with Login is intended for aspiring web developer who wants to learn Laravel Vue
+ Laravel Vue CRUD with Login is intended for beginner web developer who wants to learn Laravel Vue.
 
 ## How to use
 
@@ -18,6 +18,7 @@
 
 ## Contacts
 
-- [Facebook](https://laravel.com/docs/migrations).
-- [Github](https://github.com/Mark-AS-Dev/laravue).
+- [Facebook](https://laravel.com/docs/migrations)
+- [Github](https://github.com/Mark-AS-Dev/laravue)
+- markangelo.sila.work@gmail.com
 
